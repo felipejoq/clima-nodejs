@@ -11,6 +11,9 @@ O también:
 node app -d "Chillán"
 ````
 
+Lo que retornaría una respuesta como esta:
+> El clima en Chillán, Bío Bío Region, Chile es de 13 grados celcius
+
 Para ver la ayuda:
 ````javascript
 node app --help
